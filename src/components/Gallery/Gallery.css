@@ -1,0 +1,20 @@
+.gallery-container {
+    background-color: #37003c;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+.gallery img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+    .gallery {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

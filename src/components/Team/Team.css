@@ -1,0 +1,16 @@
+.team-img{
+    height: 100px;
+    margin-bottom: 10px;
+}
+.team-card{
+    width: 95%;
+    padding: 20px;
+    border-radius: 5px;
+}
+@media (max-width: 768px) {
+    .team-card{
+        width: 400px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+}
