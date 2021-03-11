@@ -8,7 +8,7 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import Stadium from './components/Stadium/Stadium';
+
 
 function App() {
   return (
