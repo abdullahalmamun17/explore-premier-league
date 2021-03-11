@@ -8,7 +8,7 @@
 
 # Live Code
 
-[Live](https://premier-league-project.netlify.app/).
+[Premier League Live](https://premier-league-project.netlify.app/)
 
 
 
