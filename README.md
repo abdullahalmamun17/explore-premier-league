@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Live](https://premier-league-project.netlify.app/).
+# [Live] (https://premier-league-project.netlify.app/).
 
 ## Available Scripts
 
